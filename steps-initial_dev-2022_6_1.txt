@@ -1,0 +1,30 @@
+npm install -g @angular/cli
+ng new imm-check-app-example
+
+ng serve --open
+
+added github ignore file:
+.gitignore
+"Add node_modules/ or node_modules to the .gitignore file to ignore all directories called node_modules"
+
+
+
+This should have opened automatically in your browser when you ran ng serve --open. If it did not, please check to see if any errors are in your terminal. If you see no errors, navigate to localhost:4200 in your browser to view the above page.
+
+
+
+For IPFS Example:
+Cloned:
+https://github.com/ipfs-examples/js-ipfs-browser-angular.git
+
+```console
+npm install
+npm start
+```
+
+For Roots Wallet Example:
+Cloned:
+https://github.com/roots-id/rootswallet
+
+Exampled:
+https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/draft-documents/Biometrics.md
